@@ -1,3 +1,3 @@
 MY first GIt Practice
-Learning Git step by step
+Learning Git with teammates
 Edited on GitHub
